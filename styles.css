@@ -1,0 +1,28 @@
+/*****
+Step One
+****/
+
+p {
+  border-bottom: 1px solid red;
+}
+
+.kermit {
+	border: 10px solid green;
+	border-radius: 25%;
+}
+
+#main-div-1 {
+	padding: 5%;
+}
+
+/*****
+Step Type
+****/
+
+#main-div-2 .kermit {
+  border: 2px dotted purple;
+}
+
+h2 ~ p {
+  background-color: orange;
+}
